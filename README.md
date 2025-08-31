@@ -24,6 +24,7 @@ tunglogger/
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-brightgreen?logo=windows)
+[![FastAPI](https://img.shields.io/badge/FastAPI+-green)](https://fastapi.tiangolo.com/)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
