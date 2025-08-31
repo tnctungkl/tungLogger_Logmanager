@@ -1,4 +1,4 @@
-# TungLogger — Pro Log Manager
+# 🛠️ TungLogger — Pro Log Manager
 
 TungLogger is a **desktop log management tool** that combines; a **modern Tkinter/ttkbootstrap GUI**, a **PostgreSQL backend** for persistence, a **FastAPI Server** for API integration, can **exports** to JSON, CSV, PDF, and DOCX, and a Python Modern UI tool.
 Also, Logs can be exported in multiple formats for reporting or archival. Logs are inserted into PostgreSQL with timestamp and hostname. Logs can be fetched from external APIs and bulk-imported. 
