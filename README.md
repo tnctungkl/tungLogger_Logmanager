@@ -88,7 +88,7 @@ tunglogger/
 
 - Create a PostgreSQL database (e.g. **tunglogger_db**).
 - Run the provided **tunglogger_sql.sql** file to create required tables, functions and triggers.
-- Update database credentials inside **database.py** and **logger.py** in the **TUNGLOGGER_DB** configuration block with dotenv secure protection.
+- Update database credentials inside **database.py** and **logger.py** in the **database configuration section** block with dotenv secure protection.
 
 ---
 
