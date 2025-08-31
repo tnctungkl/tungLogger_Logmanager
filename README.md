@@ -70,9 +70,9 @@ tunglogger/
   
   ---
 
-  ## 🔒 Security Notes:
+## 🔒 Security Notes:
   
-     ```
+  ```
      If you plan to be inspired this project in the future, don't forget to do these things;
      
      Credentials come only from .env.
@@ -80,7 +80,7 @@ tunglogger/
      SQL information and SQL Auth is another security issue that requires attention.
      Exports include hostname → anonymize before sharing publicly.
      API client should only fetch from trusted HTTPS endpoints.
-     ```
+```
      
 ---
 
