@@ -86,9 +86,9 @@ tunglogger/
 
 ## 📦 Database Configuration:
 
-- Create a PostgreSQL database (e.g. **tungcart_db**).
-- Run the provided **tungshoop_sql.sql** file to create required tables, functions and triggers.
-- Update database credentials inside **shppngCart.py** in the **TUNGCART_DB** configuration block with dotenv secure protection.
+- Create a PostgreSQL database (e.g. **tunglogger_db**).
+- Run the provided **tunglogger_sql.sql** file to create required tables, functions and triggers.
+- Update database credentials inside **database.py** and **logger.py** in the **TUNGLOGGER_DB** configuration block with dotenv secure protection.
 
 ---
 
